@@ -1,0 +1,17 @@
+transaction_month,cost_center_id,cost_center_name,actual_labor_cost,budget_labor_cost,variance_dollars,variance_pct,review_flag
+2025-01-01,CC-1100,Clinical Operations,199980.0,198000.0,1980.0,1.0,Monitor
+2025-01-01,CC-1200,Digital Health,247450.0,245000.0,2450.0,1.0,Monitor
+2025-01-01,CC-1300,Revenue Operations,163620.0,162000.0,1620.0,1.0,Monitor
+2025-01-01,CC-1400,Legacy Support,82820.0,82000.0,820.0,1.0,Monitor
+2025-02-01,CC-1100,Clinical Operations,203940.0,198000.0,5940.0,3.0,Monitor
+2025-02-01,CC-1200,Digital Health,252350.0,245000.0,7350.0,3.0,Monitor
+2025-02-01,CC-1300,Revenue Operations,166860.0,162000.0,4860.0,3.0,Monitor
+2025-02-01,CC-1400,Legacy Support,84460.0,82000.0,2460.0,3.0,Monitor
+2025-03-01,CC-1100,Clinical Operations,221760.0,198000.0,23760.0,12.0,Review
+2025-03-01,CC-1200,Digital Health,274400.0,245000.0,29400.0,12.0,Review
+2025-03-01,CC-1300,Revenue Operations,181440.0,162000.0,19440.0,12.0,Review
+2025-03-01,CC-1400,Legacy Support,91840.0,82000.0,9840.0,12.0,Review
+2025-04-01,CC-1100,Clinical Operations,194040.0,198000.0,-3960.0,-2.0,Monitor
+2025-04-01,CC-1200,Digital Health,240100.0,245000.0,-4900.0,-2.0,Monitor
+2025-04-01,CC-1300,Revenue Operations,170760.0,174000.0,-3240.0,-1.86,Monitor
+2025-04-01,CC-1400,Legacy Support,102360.0,82000.0,20360.0,24.83,Review

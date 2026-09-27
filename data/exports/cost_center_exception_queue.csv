@@ -1,0 +1,5 @@
+exception_id,exception_type,severity,status,owner_group,cost_center_id,reason,recommended_action,source_record_ids,created_date,due_date,days_open,sla_status,as_of_date
+EX-001,Hierarchy,High,Open,Workday Support,CC-1500,Active cost center references missing parent CC-9999,Correct the parent cost center before the next hierarchy publication.,CC-1500,2025-04-28,2025-05-03,2,Within SLA,2025-04-30
+EX-002,Effective dating,High,Open,Workday Support,CC-1400,2 labor transaction(s) posted to an inactive cost center in 2025-04-01,Review the effective-dated assignment and correct the linked source transactions.,"LT-0016, LT-9999",2025-04-27,2025-05-02,3,Within SLA,2025-04-30
+EX-003,Required worktags,Medium,Open,Finance Operations,CC-1300,"Required worktags missing: Company, Ledger Account, Region",Populate required worktags and revalidate before publishing the scorecard.,LT-9998,2025-04-29,2025-05-09,1,Within SLA,2025-04-30
+EX-004,Worker allocation,High,Open,HR Operations,Multiple,W-003 allocations total 90% for 2025-01-01,Correct worker costing allocation to 100% before period close.,W-003,2025-04-26,2025-05-01,4,Within SLA,2025-04-30

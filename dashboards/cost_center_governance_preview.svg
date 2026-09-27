@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<style>
+  .title { font: 700 30px Arial, sans-serif; fill: #102a43; }
+  .sub { font: 16px Arial, sans-serif; fill: #486581; }
+  .label { font: 600 15px Arial, sans-serif; fill: #486581; }
+  .metric { font: 700 28px Arial, sans-serif; fill: #102a43; }
+  .row { font: 14px Arial, sans-serif; fill: #243b53; }
+</style>
+<rect width="1200" height="560" fill="#f7fafc"/>
+<text x="50" y="55" class="title">Cost Center Governance &amp; Labor Spend</text>
+<text x="50" y="82" class="sub">Synthetic Workday-style portfolio dashboard | January–April 2025</text>
+<g transform="translate(50 120)">
+  <rect width="250" height="130" rx="12" fill="#ffffff" stroke="#d9e2ec"/>
+  <text x="22" y="38" class="label">Labor spend</text><text x="22" y="82" class="metric">$2,878,180</text>
+</g>
+<g transform="translate(330 120)">
+  <rect width="250" height="130" rx="12" fill="#ffffff" stroke="#d9e2ec"/>
+  <text x="22" y="38" class="label">Budget variance</text><text x="22" y="82" class="metric">$118,180</text>
+</g>
+<g transform="translate(610 120)">
+  <rect width="250" height="130" rx="12" fill="#ffffff" stroke="#d9e2ec"/>
+  <text x="22" y="38" class="label">Exceptions within SLA</text><text x="22" y="82" class="metric">4/4</text>
+</g>
+<g transform="translate(890 120)">
+  <rect width="250" height="130" rx="12" fill="#ffffff" stroke="#d9e2ec"/>
+  <text x="22" y="38" class="label">Cost-center months to review</text><text x="22" y="82" class="metric">5</text>
+</g>
+<rect x="50" y="295" width="1090" height="195" rx="12" fill="#ffffff" stroke="#d9e2ec"/>
+<text x="70" y="330" class="label">Prioritized exception queue</text>
+<text x="70" y="350" class="row">EX-001 | Hierarchy | Workday Support | Within SLA | Active cost center references missing parent CC-9999</text><text x="70" y="381" class="row">EX-002 | Effective dating | Workday Support | Within SLA | 2 labor transaction(s) posted to an inactive cost center in 2025-04-01</text><text x="70" y="412" class="row">EX-003 | Required worktags | Finance Operations | Within SLA | Required worktags missing: Company, Ledger Account, Region</text><text x="70" y="443" class="row">EX-004 | Worker allocation | HR Operations | Within SLA | W-003 allocations total 90% for 2025-01-01</text>
+<text x="70" y="525" class="sub">Control thresholds: allocation total = 100%; inactive cost center = high severity; variance &gt; 10% or $20K = review.</text>
+</svg>

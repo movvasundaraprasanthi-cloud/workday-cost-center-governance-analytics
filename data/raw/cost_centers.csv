@@ -1,0 +1,7 @@
+cost_center_id,cost_center_name,parent_cost_center_id,effective_start,effective_end,program,region
+CC-1000,Corporate Services,,2024-01-01,2026-12-31,Corporate,North
+CC-1100,Clinical Operations,CC-1000,2024-01-01,2026-12-31,Care Delivery,South
+CC-1200,Digital Health,CC-1000,2024-01-01,2026-12-31,Technology,West
+CC-1300,Revenue Operations,CC-1000,2024-01-01,2026-12-31,Finance,East
+CC-1400,Legacy Support,CC-1000,2024-01-01,2025-03-31,Technology,South
+CC-1500,Growth Operations,CC-9999,2024-01-01,2026-12-31,Operations,Central

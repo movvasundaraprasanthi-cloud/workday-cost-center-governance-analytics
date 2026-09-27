@@ -1,0 +1,6 @@
+worker_id,effective_month,cost_center_id,allocation_pct,active_flag
+W-001,2025-01-01,CC-1100,60,Y
+W-001,2025-01-01,CC-1200,40,Y
+W-002,2025-01-01,CC-1300,100,Y
+W-003,2025-01-01,CC-1200,70,Y
+W-003,2025-01-01,CC-1300,20,Y
